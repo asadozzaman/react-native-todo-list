@@ -1,0 +1,16 @@
+
+
+For Navigation
+
+1. npm install @react-navigation/native
+2. npm install react-native-screens react-native-safe-area-context
+3. npm install @react-navigation/stack
+4. npm install @react-navigation/drawer
+5. npm install react-native-gesture-handler react-native-reanimated
+
+toast
+
+1. npm i react-native-toast-message
+2. npm i react-native-vector-icons
+3. npx react-native link react-native-vector-icons
+
